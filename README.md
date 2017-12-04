@@ -10,6 +10,8 @@ This is a mini project for applying a Junior Application Developer position at C
 
 This Project is written in html, css and javascript. It is a very simple RSS feed reader app that takes input in form of rss feed link and display the value as title of article with hyperlink.
 
+All the logic/magic happen in index.html. The CSS and JS directory is only for Bootstrap and Jquery.
+
 ####Challanges
 
 - First, I don't know how RSS feed works. So need to learn about that first. 
